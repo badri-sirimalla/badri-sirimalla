@@ -1,14 +1,16 @@
-# Hi there 👋 I'm Badri Sirimalla
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=BADRI" alt="BADRI"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+Developer;AI+%26+Full+Stack+Developer;Building+Real+World+AI+Applications;Open+to+Software+Developer+Roles" alt="Typing Animation"/>
+  <b>Python Developer • Full Stack Developer • AI Application Developer</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/badri-sirimalla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:[badrisirimalla2003@gmail.com](mailto:badrisirimalla2003@gmail.com)">
+  <a href="mailto:badrisirimalla2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=badri-sirimalla&style=for-the-badge&color=blue"/>
@@ -19,68 +21,36 @@
 # About Me
 
 ```python
-class BadriSirimalla:
+class Badri:
 
-    role = "Software Developer | Python Developer | AI Engineer"
-
-    education = {
-        "degree": "B.Tech Computer Science Engineering",
-        "college": "Annamacharya Institute of Technology & Sciences",
-        "cgpa": "8.0"
-    }
-
-    current_focus = [
-        "Python Backend",
-        "Full Stack Development",
-         "AI Applications",
+    role = [
+        "Python Developer",
+        "Full Stack Developer",
+        "AI Application Developer"
     ]
 
-    skills = [
+    tech_stack = [
         "Python",
         "Flask",
-         "REST API",
         "FastAPI",
         "React",
         "SQL",
         "Machine Learning"
     ]
 
-    motto = "Build. Learn. Improve. Repeat."
+    current_focus = "Building real-world AI applications."
 
-    def coding_life(self):
-        while True:
-            learn()
-            build()
-            solve()
-            repeat()
+    def mindset(self):
+        return "Build. Learn. Improve. Repeat."
 ```
 
-Computer Science Engineering graduate with experience building AI-driven and full-stack applications, including a blockchain-based CKD prediction system, a RAG-based AI Teaching Assistant, and an AI-powered video generation platform.
-
-Currently seeking **Software Developer**, **Python Developer**, and **Full Stack Developer** opportunities.
+Computer Science Engineering graduate passionate about building AI-driven and full-stack applications. Experienced in RAG systems, REST APIs, Flask backend development, machine learning, and scalable software solutions.
 
 ---
 
 # Tech Arsenal
 
-## Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
-
-## Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
@@ -88,7 +58,23 @@ Currently seeking **Software Developer**, **Python Developer**, and **Full Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Python Libraries
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
+### Python Libraries
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
@@ -96,21 +82,7 @@ Currently seeking **Software Developer**, **Python Developer**, and **Full Stack
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 </p>
 
-## Databases
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/DBMS-005571?style=for-the-badge"/>
-</p>
-
-## Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge"/>
-</p>
-
-## Tools
+### Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -119,143 +91,65 @@ Currently seeking **Software Developer**, **Python Developer**, and **Full Stack
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 </p>
 
-## Operating Systems
-
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple"/>
-</p>
-
 ---
 
 # Featured Projects
 
-## VidSnap AI
+### VidSnap AI
 
-AI-powered video generation platform that creates engaging short-form content using automation, AI workflows, and scalable backend architecture.
+AI-powered platform for generating short-form videos with automated workflows.
 
-**Tech Stack:** Python • Flask • AI APIs • Automation
+**Python • Flask • AI APIs**
 
----
+### AI Teaching Assistant
 
-## AI Teaching Assistant
+RAG-based assistant that answers questions from uploaded videos and YouTube content.
 
-A RAG-based learning assistant that answers questions from uploaded videos and YouTube content using Whisper, Ollama, BGE embeddings, and Flask.
+**Python • Flask • Whisper • Ollama • RAG**
 
-**Tech Stack:** Python • Flask • Whisper • Ollama • RAG • Machine Learning
+### ResumeIQ
 
----
+AI-powered ATS resume analyzer with intelligent resume feedback.
 
-## ResumeIQ
-
-AI-powered resume analyzer that evaluates resumes, extracts key skills, and provides ATS-friendly improvement suggestions.
-
-**Tech Stack:** Python • Flask • OpenAI • NLP • HTML • CSS
-
----
-
-# Education
-
-**Bachelor of Technology in Computer Science Engineering**
-
-Annamacharya Institute of Technology & Sciences, Hyderabad
-
-**CGPA:** 8.0/10
-
-**Graduation:** 2026
+**Python • Flask • OpenAI • NLP**
 
 ---
 
 # Certifications
 
-* Data Science Bootcamp — CodeWithHarry
-* Python Programming — HackerRank
-* SQL Certificate — HackerRank
+- Data Science Bootcamp — CodeWithHarry
+- Python Certificate — HackerRank
+- SQL Certificate — HackerRank
 
 ---
 
 # Achievements
 
-* Solved **500+** coding and SQL problems.
-* Earned **5⭐ Python** on HackerRank.
-* Earned **5⭐ SQL** on HackerRank.
-* Strong foundation in Python programming, SQL optimization, DBMS, and analytical problem-solving.
+- Solved **500+** coding and SQL challenges.
+- Earned **5⭐ Python** and **5⭐ SQL** on HackerRank.
+- Passionate about building scalable AI and full-stack applications.
 
 ---
 
 # GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=badri-sirimalla&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=badri-sirimalla&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=badri-sirimalla&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=badri-sirimalla&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badri-sirimalla&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badri-sirimalla&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=badri-sirimalla&theme=tokyo-night"/>
 </p>
 
----
-
-# Contribution Snake Animation
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: badri-sirimalla
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Display the animation using:
-
-```md
 <p align="center">
 <img src="https://raw.githubusercontent.com/badri-sirimalla/badri-sirimalla/output/github-contribution-grid-snake.svg"/>
 </p>
-```
-
----
-
-# Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/badri-sirimalla">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:[badrisirimalla2003@gmail.com](mailto:badrisirimalla2003@gmail.com)">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
-> *"Code with purpose. Build with curiosity. Learn every day."*
