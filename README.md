@@ -1,155 +1,381 @@
-::: {align="center"}
+{align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:0d1117&text=BADRI%20SIRIMALLA&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Python%20Developer%20%7C%20Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Badri Sirimalla header"/>{=html}
 
-Badri Sirimalla
+<a href="https://www.linkedin.com/in/badri-sirimalla">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
+</a>{=html} <a href="mailto:badrisirimalla2003@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>{=html}
+</a>{=html} <a href="https://github.com/badri-sirimalla">{=html}
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
+</a>{=html}
+<a href="https://www.hackerrank.com/profile/badrisirimalla21">{=html}
+<img src="https://img.shields.io/badge/HackerRank-1F9D55?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>{=html}
+</a>{=html} <a href="https://www.youtube.com/@BadriVerse31">{=html}
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>{=html}
+</a>{=html}
 
-Python Developer · Software Developer · AI & ML Engineer
+<br/>{=html}
 
-Building practical Python software, AI applications, backend systems,
-and full-stack products.
-
-LinkedIn ·
-GitHub ·
-HackerRank ·
-YouTube ·
-Email
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Backend+Engineering;AI+%2F+ML+Application+Development;RAG+%7C+Embeddings+%7C+Semantic+Retrieval;REST+APIs+%7C+Full-Stack+Products;Turning+Technical+Ideas+Into+Working+Software" alt="Typing introduction"/>{=html}
 :::
 
-About
+01 --- PROFILE
 
-I'm a Computer Science Engineering graduate from Hyderabad, India,
-focused on building Python-powered software, AI/ML applications,
-backend systems, REST APIs, and full-stack products.
+<table>
 
-I enjoy taking an idea from problem definition to a working product ---
-designing the backend, integrating AI capabilities, building usable
-interfaces, connecting databases/APIs, and deploying the application.
+<tr>
+
+<td width="62%" valign="top">
+
+Building software that actually works.
+
+I'm Badri Sirimalla, a Computer Science Engineering graduate based
+in Hyderabad, India, focused on Python development, software
+engineering, and AI/ML application development.
+
+My work sits at the intersection of:
+
+Python backend engineering
+
+AI / ML application development
+
+RAG and semantic retrieval
+
+REST API development
+
+Full-stack product development
+
+Data processing and SQL
+
+I like taking an idea beyond a notebook or prototype and turning it into
+a usable, deployable web application.
 
 Currently open to
 
-Python Developer
+Python Developer · Software Developer · AI & ML Engineer
 
-Software Developer
+</td>
 
-AI & ML Engineer
+<td width="38%" valign="top">
 
-Engineering philosophy: build useful software, keep the
-architecture understandable, and turn technical ideas into working
-products.
+┌─────────────────────────────┐
+│        BADRI SIRIMALLA      │
+├─────────────────────────────┤
+│ Location                    │
+│ Hyderabad, India            │
+│                             │
+│ Primary language            │
+│ Python                      │
+│                             │
+│ Engineering focus           │
+│ Backend + AI + Full Stack   │
+│                             │
+│ Current direction            │
+│ Production-oriented AI apps │
+└─────────────────────────────┘
 
-What I Build
+</td>
 
-Python Engineering   AI / ML Applications   Full-Stack Products
+</tr>
 
-Flask                RAG                    React.js
-FastAPI              Embeddings             JavaScript
-REST APIs            Semantic Retrieval     Tailwind CSS
-API Integration      Whisper                SQL / DBMS
-OOP                  Ollama                 Git / GitHub
-DSA Fundamentals     Scikit-learn           Vercel / Render
+</table>
 
-Technical Stack
+02 --- ENGINEERING STACK
 
-Programming
+Core
 
-Python SQL JavaScript OOP DSA Fundamentals
+<p>
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>{=html}
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>{=html}
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>{=html}
+
+</p>
 
 Backend & APIs
 
-Flask FastAPI REST APIs API Integration
+<p>
 
-Frontend
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>{=html}
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=58A6FF"/>{=html}
 
-React.js JavaScript Tailwind CSS Responsive UI
+</p>
 
 AI / Machine Learning
 
-RAG Whisper Ollama Embeddings Semantic Retrieval NumPy
-Pandas Scikit-learn
+<p>
 
-Data, Tools & Deployment
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Whisper-111827?style=for-the-badge&logo=openai&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logoColor=58A6FF"/>{=html}
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>{=html}
 
-SQL DBMS Git GitHub VS Code Jupyter Notebook Render
-Vercel
+</p>
 
-Featured Projects
+Data & Frontend
 
-01 · AI Teaching Assistant
+<p>
 
-RAG-powered learning platform for asking questions from educational
-videos.
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>{=html}
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>{=html}
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>{=html}
+<img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>{=html}
 
-The application processes uploaded videos and YouTube content,
-transcribes lectures with Whisper, creates semantic representations
-using embeddings, retrieves relevant context, and generates grounded
-answers through an LLM workflow.
+</p>
 
-Core stack: Python Flask RAG Whisper Ollama Embeddings
+Engineering Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>{=html}
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>{=html}
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626"/>{=html}
+<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>{=html}
+
+</p>
+
+03 --- HOW I APPROACH A PRODUCT
+
+flowchart LR
+    A[Problem] --> B[System Design]
+    B --> C[Python Backend]
+    C --> D[APIs / Data]
+    D --> E[AI / ML Layer]
+    E --> F[Frontend]
+    F --> G[Deployment]
+    G --> H[Working Product]
+
+My typical workflow
+
+Stage                               What I focus on
+
+01 --- Understand               Problem, users, inputs, outputs
+
+02 --- Design                   Architecture, data flow, API
+boundaries
+
+03 --- Build                    Python backend, business logic,
+database/API integration
+
+04 --- Intelligence             ML, RAG, embeddings, retrieval, LLM
+workflows
+
+05 --- Productize               Frontend, UX, error handling,
+validation
+
+06 --- Deploy                   Environment configuration and
+production deployment
+
+04 --- FEATURED WORK
+
+AI Teaching Assistant
+
+RAG · VIDEO INTELLIGENCE · EDUCATION
+
+Ask questions about educational videos and receive context-aware
+answers grounded in the relevant lecture content.
+
+Pipeline
+
+Video / YouTube
+      │
+      ▼
+   Audio
+      │
+      ▼
+   Whisper
+      │
+      ▼
+ Transcript Chunks
+      │
+      ▼
+   Embeddings
+      │
+      ▼
+Semantic Retrieval
+      │
+      ▼
+Relevant Context
+      │
+      ▼
+  LLM Response
+
+Built with
+
+Python Flask RAG Whisper Ollama Embeddings
 Semantic Retrieval
 
-Engineering highlights - Video-to-audio processing workflow -
-Speech-to-text transcription - Chunked educational content - Semantic
-retrieval - Context-aware answer generation - Source-aware responses
-with lecture references - Flask backend with web frontend
+Key engineering work
 
-Live
-Application
-· Source
-Code
+Video-to-audio processing
 
-02 · VidSnapAI
+Speech-to-text transcription
 
-AI-powered video workflow application focused on simplifying
-multi-step video processing and content creation.
+Structured transcript chunking
 
-The project combines a Python backend with AI/API-driven workflows and
-automated media processing to turn a complex video task into a
-streamlined web experience.
+Semantic embedding generation
 
-Core stack: Python Flask AI APIs Video Processing
+Similarity-based retrieval
 
-Live Application · Source
-Code
+Context-aware response generation
 
-03 · ResumeIQ
+Lecture source / timestamp references
 
-Python-based resume intelligence platform for analyzing resume content
-against job requirements.
+Flask API and web frontend
 
-ResumeIQ turns resume information into structured insights through a
-practical web workflow, combining Python backend processing,
-NLP-oriented analysis, and API-driven functionality.
+<a href="https://ai-teaching-assistant-frontend-7lmp.onrender.com/">{=html}<img src="https://img.shields.io/badge/Live%20Application-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>{=html}</a>{=html}
+<a href="https://github.com/badri-sirimalla/AI-Teaching-Assistant">{=html}<img src="https://img.shields.io/badge/Source%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
 
-Core stack: Python Flask NLP Scikit-learn REST API
+VidSnapAI
 
-Live Application
-· Source Code
+AI · VIDEO PROCESSING · PYTHON
 
-Engineering Focus
+A Python-based AI video workflow that turns a multi-step media task
+into a streamlined web experience.
 
-Area                                Focus
+System direction
 
-Python Engineering              Python, Flask, FastAPI, OOP, REST
-APIs, API integration
+User Input
+   │
+   ▼
+Web Interface
+   │
+   ▼
+Flask API
+   │
+   ├── AI / API Workflow
+   │
+   └── Video Processing
+           │
+           ▼
+      Generated Output
 
-AI / ML                         RAG, embeddings, semantic
-retrieval, Whisper, Ollama,
+Built with
+
+Python Flask AI APIs Video Processing
+
+<a href="https://vidsnapai-rzjp.onrender.com">{=html}<img src="https://img.shields.io/badge/Live%20Application-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>{=html}</a>{=html}
+<a href="https://github.com/badri-sirimalla/VidSnapAI">{=html}<img src="https://img.shields.io/badge/Source%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
+
+ResumeIQ
+
+NLP · RESUME ANALYSIS · PYTHON
+
+A resume intelligence application that analyzes resume information and
+produces structured insights through a practical web workflow.
+
+System direction
+
+Resume
+  │
+  ▼
+Text Extraction
+  │
+  ▼
+Information Analysis
+  │
+  ├── Skills
+  ├── Job-Relevant Content
+  └── Structured Insights
+          │
+          ▼
+      Web Results
+
+Built with
+
+Python Flask NLP Scikit-learn REST API
+
+<a href="https://resumeiq-8qlv.onrender.com/resume_analyze">{=html}<img src="https://img.shields.io/badge/Live%20Application-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>{=html}</a>{=html}
+<a href="https://github.com/badri-sirimalla/ResumeIQ">{=html}<img src="https://img.shields.io/badge/Source%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
+
+05 --- ENGINEERING CAPABILITIES
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+Python Engineering
+
+Python
+
+OOP
+
+DSA fundamentals
+
+Flask
+
+FastAPI
+
+REST APIs
+
+API integration
+
+Backend architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+AI Engineering
+
+RAG pipelines
+
+Embeddings
+
+Semantic retrieval
+
+Whisper transcription
+
+Ollama workflows
+
+NLP
+
 Scikit-learn
 
-Full Stack                      React.js, JavaScript, Tailwind CSS,
-backend APIs, responsive UI
+AI API integration
 
-Data                            SQL, DBMS, NumPy, Pandas
+</td>
 
-Development                     Git, GitHub, VS Code, Jupyter
-Notebook
+<td width="33%" valign="top">
 
-Education
+Product Engineering
+
+React.js
+
+JavaScript
+
+Tailwind CSS
+
+SQL
+
+DBMS
+
+Git/GitHub
+
+Deployment
+
+Responsive interfaces
+
+</td>
+
+</tr>
+
+</table>
+
+06 --- EDUCATION
 
 B.Tech --- Computer Science & Engineering
 
-Annamacharya Institute of Technology and Sciences, Hyderabad, India
+Annamacharya Institute of Technology and Sciences
+Hyderabad, India · 2026
 
-2026 · CGPA 8.0 / 10
+CGPA: 8.0 / 10
 
 Intermediate
 
@@ -159,77 +385,101 @@ Secondary School Certificate
 
 ZPHS Mohammadapur, Kamareddy, Telangana, India
 
-Certifications
+07 --- CERTIFICATIONS
 
-Certification           Provider                Verification
+Credential              Issuer
 
-**Data Science          CodeWithHarry           View
-Bootcamp**                                      Certificate
+**Data Science          CodeWithHarry           View Certificate
+Bootcamp**                                      ↗
 
-Python Programming  HackerRank              Verify
+Python Programming  HackerRank              Verify ↗
 
-SQL                 HackerRank              Verify
+SQL                 HackerRank              Verify ↗
 
-Developer Presence
-
-GitHub: badri-sirimalla
-
-LinkedIn: Badri
-Sirimalla
-
-HackerRank:
-badrisirimalla21
-
-YouTube: BadriVerse31
-
-GitHub Analytics
+08 --- GITHUB ANALYTICS
 
 ::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=badri-sirimalla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=badri-sirimalla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>{=html}
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=badri-sirimalla&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub contribution streak"/>{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=badri-sirimalla&theme=github-dark-blue&hide_border=true" height="175" alt="GitHub streak"/>{=html}
 :::
+
+<br/>{=html}
 
 ::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badri-sirimalla&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top programming languages"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badri-sirimalla&layout=donut&theme=github_dark&hide_border=true&langs_count=8" height="210" alt="Top languages"/>{=html}
 :::
 
-Contribution Activity
+09 --- CONTRIBUTION ACTIVITY
 
 ::: {align="center"}
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=badri-sirimalla&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=badri-sirimalla&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Badri%20Sirimalla%20%E2%80%94%20Contribution%20Activity" width="96%" alt="Contribution activity graph"/>{=html}
 :::
 
-Current Direction
-
-Python
-├── Backend Engineering
-│   ├── Flask
-│   ├── FastAPI
-│   └── REST APIs
-│
-├── AI / ML
-│   ├── RAG
-│   ├── Embeddings
-│   ├── Semantic Retrieval
-│   ├── Whisper
-│   └── Scikit-learn
-│
-└── Full-Stack Products
-    ├── React
-    ├── JavaScript
-    ├── SQL
-    └── Deployment
+10 --- DEVELOPER PRESENCE
 
 ::: {align="center"}
 
-Let's Build Something Useful.
+             Platform                 Profile
 
-Turning technical ideas into working software.
+            **GitHub**                [github.com/badri-sirimalla](https://github.com/badri-sirimalla)
 
-Email Me · Connect on
-LinkedIn
+           **LinkedIn**               [linkedin.com/in/badri-sirimalla](https://www.linkedin.com/in/badri-sirimalla)
 
-<sub>{=html}Built with Python, AI, curiosity, and a lot of
-debugging.</sub>{=html}
+          **HackerRank**              [hackerRank.com/profile/badrisirimalla21](https://www.hackerrank.com/profile/badrisirimalla21)
+
+            **YouTube**               [youtube.com/@BadriVerse31](https://www.youtube.com/@BadriVerse31)
+
 :::
+
+11 --- CURRENT DIRECTION
+
+                         BADRI SIRIMALLA
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+       PYTHON ENGINEERING    AI / ML          FULL STACK
+             │                  │                  │
+        ┌────┼────┐        ┌────┼────┐       ┌────┼────┐
+        │    │    │        │    │    │       │    │    │
+      Flask FastAPI APIs    RAG  NLP  ML     React SQL  UI
+        │    │    │        │    │    │       │    │    │
+        └────┴────┘        └────┴────┘       └────┴────┘
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                       DEPLOYED SOFTWARE
+
+My current technical direction is centered around building
+Python-backed AI applications that combine backend engineering,
+intelligent retrieval, data processing, and usable product interfaces.
+
+12 --- LET'S BUILD
+
+::: {align="center"}
+
+Have a software, Python, or AI opportunity?
+
+I'm currently looking for opportunities as a:
+
+Python Developer · Software Developer · AI & ML Engineer
+
+<br/>{=html}
+
+<a href="mailto:badrisirimalla2003@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}
+</a>{=html}
+
+<a href="https://www.linkedin.com/in/badri-sirimalla">{=html}
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}
+</a>{=html}
+
+<br/>{=html}<br/>{=html}
+
+<sub>{=html}Building useful software. Learning continuously. Shipping
+real products.</sub>{=html}
+:::
+
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:111827,100:0d1117" width="100%" alt="Footer"/>{=html}
