@@ -1,113 +1,64 @@
-<!-- ========================================================= -->
-<!--                    HERO SECTION                           -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:A855F7&height=220&section=header&text=Badri%20Sirimalla&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Python%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+# 👋 Hi, I'm Badri Sirimalla
 
-<br>
+### Software Developer · Python Developer · Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer+%7C+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Real-World+AI+Applications;RAG+%7C+LLM+%7C+REST+APIs;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer;Full-Stack+Developer;AI+Application+Builder;Machine+Learning+Enthusiast;Building+Real-World+Software;Open+to+Software+Developer+Roles" />
 
-<br><br>
+<br/>
 
 <a href="https://www.linkedin.com/in/badri-sirimalla">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/badri-sirimalla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.youtube.com/@BadriVerse31">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:badrisirimalla2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.hackerrank.com/profile/badrisirimalla21">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=badri-sirimalla&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=badri-sirimalla&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square"/>
 
 </div>
 
-<br>
-
 ---
 
-<!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
-<!-- ========================================================= -->
+# 👨‍💻 About Me
 
-<h2 align="center">⚡ About Me</h2>
-
-<table width="100%">
+<table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-```python
-class BadriSirimalla:
+### Hi, I'm Badri 👋
 
-    name = "Badri Sirimalla"
-    location = "Hyderabad, India 🇮🇳"
+I'm a **Computer Science & Engineering graduate** focused on building practical software with **Python, AI, Machine Learning, backend technologies, and modern full-stack development**.
 
-    roles = [
-        "Software Developer",
-        "Python Developer",
-        "Full-Stack Developer"
-    ]
+I enjoy turning ideas into **real-world applications**, especially AI-powered products, RAG systems, backend APIs, and data-driven solutions.
 
-    current_focus = [
-        "Python",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "RAG & LLM Applications",
-        "Backend Development",
-        "REST APIs"
-    ]
+Currently focused on growing as a **Software Developer** by building practical projects and continuously improving my engineering skills.
 
-    technologies = [
-        "Python",
-        "Flask",
-        "FastAPI",
-        "React",
-        "Tailwind CSS",
-        "SQL",
-        "Scikit-learn",
-        "Ollama"
-    ]
+<br/>
 
-    interests = [
-        "AI Engineering",
-        "Problem Solving",
-        "System Development",
-        "Backend Engineering",
-        "Building Real Products"
-    ]
-
-    strengths = [
-        "Python",
-        "SQL",
-        "Machine Learning",
-        "REST APIs",
-        "DBMS",
-        "OOP",
-        "DSA"
-    ]
-
-    motto = "Build. Learn. Improve."
-
-    def life_loop(self):
-        while True:
-            learn()
-            build()
-            solve()
-            improve()
+```text
+💻 Software Development
+🐍 Python Engineering
+🤖 AI & Machine Learning
+🧠 RAG & LLM Applications
+⚡ Backend & REST APIs
+🌐 Full-Stack Development
+🗄️ SQL & Databases
+🚀 Real-World Applications
