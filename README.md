@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=BADRI%20SIRIMALLA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Backend%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%"/>
-
 <div align="center">
 
-<h2>
-  Open to work in
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6C4AB6&center=true&vCenter=true&width=500&lines=Python+Development;Backend+Development;Software+Development;AI+Application+Development" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:172554,100:4F46E5&height=220&section=header&text=BADRI%20SIRIMALLA&fontSize=58&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<h2>Open to work in</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=900&color=6366F1&center=true&vCenter=true&width=520&height=45&lines=Python+Development;Backend+Development;Software+Development;AI+Application+Development" />
+
+</div>
 </h2>
 
 </div>
