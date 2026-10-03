@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C4AB6&height=220&section=header&text=BADRI%20SIRIMALLA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<h2>Python Developer • Full-Stack Developer • AI Application Developer</h2>
+<h2>Python Developer • Backend Developer • Software Developer • AI Application Developer</h2>
+
+<p>
+Open to opportunities as a Python Developer, Backend Developer, Software Developer, or AI Application Developer.
+</p>
 
 <p>
 Building practical web applications and AI-powered systems using Python, Flask, React.js, REST APIs and RAG.
