@@ -29,7 +29,8 @@
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="55%" valign="top">
 
 ```javascript
 const badri = {
@@ -78,7 +79,6 @@ const badri = {
 
     motto: "Build. Learn. Improve. Repeat."
 };
-
 </td> <td width="45%" align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/coding.gif" width="350"/> </td> </tr> </table>
 🛠️ Tech Arsenal
 <div align="center">
