@@ -4,7 +4,7 @@
 
 ### Software Developer · Python Developer · Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer;Full-Stack+Developer;AI+Application+Builder;Machine+Learning+Enthusiast;Building+Real-World+Software;Open+to+Software+Developer+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer;Full-Stack+Developer;AI+Application+Builder;Machine+Learning+Enthusiast;RAG+%26+LLM+Developer;Building+Real-World+Software;Open+to+Software+Developer+Roles" />
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table>
 <tr>
@@ -45,11 +45,11 @@
 
 ### Hi, I'm Badri 👋
 
-I'm a **Computer Science & Engineering graduate** focused on building practical software with **Python, AI, Machine Learning, backend technologies, and modern full-stack development**.
+I'm a **Computer Science & Engineering graduate** focused on building practical software using **Python, AI, Machine Learning, backend technologies, and modern full-stack development**.
 
-I enjoy turning ideas into **real-world applications**, especially AI-powered products, RAG systems, backend APIs, and data-driven solutions.
+I enjoy turning ideas into **real-world applications**, especially AI-powered products, RAG systems, REST APIs, and data-driven solutions.
 
-Currently focused on growing as a **Software Developer** by building practical projects and continuously improving my engineering skills.
+Currently focused on growing as a **Software Developer** by building production-oriented projects and continuously improving my problem-solving and engineering skills.
 
 <br/>
 
@@ -61,4 +61,5 @@ Currently focused on growing as a **Software Developer** by building practical p
 ⚡ Backend & REST APIs
 🌐 Full-Stack Development
 🗄️ SQL & Databases
+📊 Data Analysis
 🚀 Real-World Applications
