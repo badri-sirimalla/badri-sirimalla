@@ -32,7 +32,6 @@
 
 <td width="55%" valign="top">
 
-```javascript
 const badri = {
     name: "Badri Sirimalla",
     role: "Software Developer",
